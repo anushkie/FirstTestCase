@@ -14,4 +14,8 @@ public class Calculator {
     public int dividor(int a, int b) {
         return  a / b;
     }
+
+    public int multipication(int a, int b) {
+        return a * b;
+    }
 }
