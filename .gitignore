@@ -1,0 +1,16 @@
+/target/
+.idea/vcs.xml
+logs/
+/GameServer.iml
+/.classpath
+/.project
+.idea/
+.settings/
+/log/
+/PBOServer.iml
+/logs/
+/jvm.log
+
+__MACOSX
+.DS_Store
+/classes/
