@@ -25,5 +25,6 @@ public class DivideTestUsingMockito {
     public void test() {
         calculatorMock.dividor(1,0);
         calculatorMock.dividor(12, 48);
+        assertEquals(0, calculatorMock.dividor(12, 0));
     }
 }
